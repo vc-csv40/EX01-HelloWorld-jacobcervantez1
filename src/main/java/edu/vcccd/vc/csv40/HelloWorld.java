@@ -1,4 +1,4 @@
-package edu.vcccd.vc.cs40;
+package edu.vcccd.vc.csv40;
 
 /**
  * CS V40 Beginning Java
@@ -7,11 +7,11 @@ package edu.vcccd.vc.cs40;
  * Statement of code ownership: I hereby state that I have written all of this
  * code and I have not copied this code from any other person or source.
  *
- * jacobcervantez
+ * @author [CHANGE THIS TO YOUR INFORMATION]
  */
-public class edu.vcccd.vc.csv40.HelloWorld {
+public class HelloWorld {
 
-    public static void main(String[] args) {
+public static void main(String[] args) {
         System.out.println("Hello, World!");
-    }
-}
+        }
+        }
